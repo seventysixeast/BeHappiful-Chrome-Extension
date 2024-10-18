@@ -1,10 +1,9 @@
 {
   "manifest_version": 3,
-  "name": "Be Happiful - Quote of the Day",
+  "name": "Daily Quotes for Gmail Signatures",
   "short_name": "Be Happiful",
   "version": "1.1",
-  "author": "Jostein Kjønigsen <jostein@kjonigsen.net>",
-  "description": "Be Happiful - Quote of the Day. Show daily quotes in your Gmail Signature.",
+  "description": "Automatically add daily inspiring quotes to your email signature for free.",
   "icons": {
     "32": "images/Behappiful-32x32.png",
     "48": "images/Behappiful-48x48.png",
@@ -12,7 +11,7 @@
     "128": "images/Behappiful-128x128.png"
   },
   "action": {
-    "default_title": "Happiful - Quote of the Day",
+    "default_title": "Daily Quotes for Gmail Signatures",
     "default_popup": "popUp.html",
     "default_icon": {
       "32": "images/Behappiful-32x32.png",
