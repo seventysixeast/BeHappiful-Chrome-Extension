@@ -41,5 +41,5 @@
       "matches": ["<all_urls>"]
     }
   ],
-  "host_permissions": ["https://*/*"]
+  "host_permissions": ["https://mail.google.com/*"]
 }
