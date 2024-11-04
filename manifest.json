@@ -22,7 +22,7 @@
   "background": {
     "service_worker": "src/background.js"
   },
-  "permissions": ["storage", "activeTab", "tabs", "scripting"],
+  "permissions": ["storage", "tabs"],
   "content_scripts": [
     {
       "matches": ["*://mail.google.com/*"],
